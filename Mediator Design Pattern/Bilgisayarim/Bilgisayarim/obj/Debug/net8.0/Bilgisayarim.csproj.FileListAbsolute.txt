@@ -1,0 +1,14 @@
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\bin\Debug\net8.0\Bilgisayarim.exe
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\bin\Debug\net8.0\Bilgisayarim.deps.json
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\bin\Debug\net8.0\Bilgisayarim.runtimeconfig.json
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\bin\Debug\net8.0\Bilgisayarim.dll
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\bin\Debug\net8.0\Bilgisayarim.pdb
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\Bilgisayarim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\Bilgisayarim.AssemblyInfoInputs.cache
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\Bilgisayarim.AssemblyInfo.cs
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\Bilgisayarim.csproj.CoreCompileInputs.cache
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\Bilgisayarim.dll
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\refint\Bilgisayarim.dll
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\Bilgisayarim.pdb
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\Bilgisayarim.genruntimeconfig.cache
+C:\Users\enis_\RiderProjects\Bilgisayarim\Bilgisayarim\obj\Debug\net8.0\ref\Bilgisayarim.dll

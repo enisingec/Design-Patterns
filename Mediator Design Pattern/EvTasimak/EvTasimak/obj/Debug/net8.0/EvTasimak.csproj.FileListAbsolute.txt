@@ -1,0 +1,14 @@
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\bin\Debug\net8.0\EvTasimak.exe
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\bin\Debug\net8.0\EvTasimak.deps.json
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\bin\Debug\net8.0\EvTasimak.runtimeconfig.json
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\bin\Debug\net8.0\EvTasimak.dll
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\bin\Debug\net8.0\EvTasimak.pdb
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\EvTasimak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\EvTasimak.AssemblyInfoInputs.cache
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\EvTasimak.AssemblyInfo.cs
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\EvTasimak.csproj.CoreCompileInputs.cache
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\EvTasimak.dll
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\refint\EvTasimak.dll
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\EvTasimak.pdb
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\EvTasimak.genruntimeconfig.cache
+C:\Users\enis_\RiderProjects\EvTasimak\EvTasimak\obj\Debug\net8.0\ref\EvTasimak.dll

@@ -1,0 +1,14 @@
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\EvSatinAlmak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\EvSatinAlmak.AssemblyInfoInputs.cache
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\EvSatinAlmak.AssemblyInfo.cs
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\EvSatinAlmak.csproj.CoreCompileInputs.cache
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\bin\Debug\net8.0\EvSatinAlmak.exe
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\bin\Debug\net8.0\EvSatinAlmak.deps.json
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\bin\Debug\net8.0\EvSatinAlmak.runtimeconfig.json
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\bin\Debug\net8.0\EvSatinAlmak.dll
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\bin\Debug\net8.0\EvSatinAlmak.pdb
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\EvSatinAlmak.dll
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\refint\EvSatinAlmak.dll
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\EvSatinAlmak.pdb
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\EvSatinAlmak.genruntimeconfig.cache
+C:\Users\enis_\RiderProjects\EvSatinAlmak\EvSatinAlmak\obj\Debug\net8.0\ref\EvSatinAlmak.dll
